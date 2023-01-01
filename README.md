@@ -15,15 +15,17 @@
 &emsp;&emsp;
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Markdown](https://img.shields.io/badge/-Markdown-orange?style=flat-square&logo=Markdown)
-  
+![Html](https://img.shields.io/badge/-Html-blue?style=flat-square&logo=Html)  
+ 
  🧠 计划学习:  
  
 &emsp;&emsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)  
 
 🧰 常用的工具:  
-
+![Notion](https://img.shields.io/badge/-Notion-brightpurpul?style=flat-square&logo=Notion)
 &emsp;&emsp;  
 
 <h2>github统计</h2>
