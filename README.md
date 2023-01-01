@@ -15,7 +15,7 @@
 &emsp;&emsp;
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Markdown](https://img.shields.io/badge/-Markdown-orange?style=flat-square&logo=Markdown)
-![Html](https://img.shields.io/badge/-Html-blue?style=flat-square&logo=Html)  
+![HTML](https://img.shields.io/badge/-HTML-yellow?style=flat-square&logo=HTML)  
  
  🧠 计划学习:  
  
@@ -25,7 +25,9 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)  
 
 🧰 常用的工具:  
-![Notion](https://img.shields.io/badge/-Notion-brightpurpul?style=flat-square&logo=Notion)
+
+&emsp;&emsp;
+![Notion](https://img.shields.io/badge/-Notion-purple?style=flat-square&logo=Notion)
 &emsp;&emsp;  
 
 <h2>github统计</h2>
