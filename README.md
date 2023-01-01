@@ -21,7 +21,8 @@
 &emsp;&emsp;
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Markdown](https://img.shields.io/badge/-Markdown-orange?style=flat-square&logo=Markdown)
-![HTML](https://img.shields.io/badge/-HTML-yellow?style=flat-square&logo=HTML)  
+![HTML](https://img.shields.io/badge/-HTML-yellow?style=flat-square&logo=HTML)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
  
  🧠 计划学习:  
  
@@ -34,7 +35,8 @@
 
 &emsp;&emsp;
 ![Notion](https://img.shields.io/badge/-Notion-purple?style=flat-square&logo=Notion)
-&emsp;&emsp;  
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)  
+<br/>
 
 <h2>github统计</h2>
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=3-sunny&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=merko" /> </div> <br/> 
