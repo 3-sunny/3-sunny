@@ -9,6 +9,12 @@
 <h2>自我介绍😄</h2>  
 <p>中南大大二在读，小菜鸡一枚，想去的地方很远，想学的东西很多，但怕什么路途坎坷，怕什么真理无穷，进一寸有进一寸的欢喜</p><br/>
  <h2>联系方式📫</h2>  <br/>
+ <span><img src="https://img.shields.io/badge/QQ-EB1923?style=for-the-badge&logo=tencent%20qq&logoColor=black" />&emsp; 3339406785
+</span>
+
+<span><img src="https://img.shields.io/badge/VX-07C160?style=for-the-badge&logo=WeChat&logoColor=black" />&emsp; wms3339406785
+</span><br/><br/>
+
 <h2>个人技能🏆</h2>   <br/>  
 💪 正在学习:  
 
